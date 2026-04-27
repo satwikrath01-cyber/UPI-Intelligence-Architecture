@@ -1,0 +1,15 @@
+numpy>=2.1.0
+pymupdf
+pytesseract
+Pillow
+langchain-text-splitters
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+torch
